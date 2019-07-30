@@ -1,0 +1,80 @@
+body {
+    background-color: #FF0000;
+}
+
+img {
+    margin: 25%, 25%, 25%, 25%
+}
+
+a { 
+    padding: 5%;
+}
+
+h1 {
+    color: indigo;
+}
+
+p{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;  
+}
+
+
+#green {
+    color:#00FF00;
+    background-color: #0000FF;
+    box-shadow: 30px 0px 50px 50px  blue;
+    text-align: center;
+}
+
+#blue {
+    color:blue;
+    text-align: center;
+    background-color: #00FF00;
+    box-shadow: 30px 0px 50px 50px  #00FF00; 
+}
+
+#pink {
+    color: pink;
+    font-weight: bold;
+}
+
+#orange {
+    color: orange;
+    font-weight: bold;
+}
+
+#purple {
+    color: purple;
+    font-weight: bold;
+}
+
+
+
+.center {
+    display: block;
+    margin-left: 30%;
+}
+
+.auqamarine {
+    background-color: rgb(127, 208, 255);
+}
+
+.navbar {
+    position: relative;
+    margin: 5% 5% 5% 5%;
+    background-color: yellow;
+    box-shadow: 30px 0px 50px 50px yellow;
+}
+
+.green-text {
+    color: #00FF00;
+    padding: 10% 10% 10% 10%;
+}
+
+.title {
+    font-size: 80px;
+}
+
+
